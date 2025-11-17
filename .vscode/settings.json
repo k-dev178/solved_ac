@@ -16,6 +16,11 @@
         "forward_list": "cpp",
         "__tree": "cpp",
         "map": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "ios": "cpp",
+        "unordered_map": "cpp",
+        "__locale": "cpp",
+        "__config": "cpp",
+        "bitset": "cpp"
     }
 }
